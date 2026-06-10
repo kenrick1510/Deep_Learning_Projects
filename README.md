@@ -3,7 +3,7 @@
 This repository contains two deep learning projects completed in Jupyter Notebook format:
 
 1. **Project 1:** Image classification using a custom CNN and MobileNetV3Small transfer learning.
-2. **Project 2:** Monthly temperature forecasting using GRU models and synthetic temperature generation using a Variational Autoencoder (VAE).
+2. **Project 2:** WA monthly temperature forecasting using GRU models and synthetic temperature generation using a Variational Autoencoder (VAE).
 
 The projects demonstrate model building, training, evaluation, visualization, and performance comparison using TensorFlow/Keras.
 
